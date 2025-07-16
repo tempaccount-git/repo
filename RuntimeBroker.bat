@@ -1,1 +1,1 @@
-start echo coucou
+mkdir wawahere
